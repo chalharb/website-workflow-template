@@ -9,7 +9,6 @@ elixir.config.publicPath = 'assets';
 
 elixir(function(mix) {
     mix.rubySass('styles.scss','assets/css/styles.css')
-        .rubySass('calendar_styles.scss','assets/css/calendar_styles.css')
         .scripts('app.js')
         .scripts([
             'vendor/jquery/jquery-2.1.4.js',
