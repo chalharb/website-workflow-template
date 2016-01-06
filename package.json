@@ -1,0 +1,13 @@
+{
+  "name": "__CHANGE_TO_PROJECT_NAME__",
+  "version": "0.0.0",
+  "description": "__CHANGE_TO_PROJECT_DESCRIPTION__",
+  "author": "__CHANGE_TO_YOUR_NAME__",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.5",
+    "gulp": "^3.9.0",
+    "laravel-elixir": "^3.2.6"
+  }
+}
